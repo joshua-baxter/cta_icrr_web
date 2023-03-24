@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html lang="ja">
+<head>
+    <title>ICRR チェレンコフ宇宙ガンマ線グループ HOME</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/dark/dark.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/bar/bar.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+    <!--[if lt IE 9]>
+    <script src="./js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+    <header>
+        <h2><a href="http://www.u-tokyo.ac.jp">東京大学</a> <a href="http://www.icrr.u-tokyo.ac.jp">宇宙線研究所</a><h2>
+            <h1><a href="./index.html">チェレンコフ宇宙ガンマ線グループ</a></h1>
+    </header>
+    <nav>
+      <ul>
+        <li class="be"><a href="./index.html"><span class="ja">ホーム</span><span class="en">HOME</span></a></li>
+        <li><a href="./news.html"><span class="ja">ニュース</span><span class="en">NEWS</span></a></li>
+        <li><a href="./members.html"><span class="ja">メンバー</span><span class="en">MEMBERS</span></a></li>
+        <li><a href="./research.html"><span class="ja">研究紹介</span><span class="en">OUR RESEARCH</span></a></li>
+        <li><a href="./observation.html"><span class="ja">ガンマ線観測</span><span class="en">GAMMA-RAY OBSERVATION</span></a></li>
+        <li><a href="./objects.html"><span class="ja">ガンマ線天体</span><span class="en">GAMMA-RAY OBJECTS</span></a></li>
+        <li><a href="undergraduate.html"><span class="ja">進学希望の方へ</span><span class="en">FOR UNDERGRADUATE</span></a></li>
+        <li><a href="http://www.icrr.u-tokyo.ac.jp/~cta/wiki/index.php"><span class="ja">内部Wiki</span><span class="en">INTERNAL WIKI</span></a></li>
+        <li><a href="./links.html"><span class="ja">リンク</span><span class="en">LINKS</span></a></li>
+        <li><a href="./access.html"><span class="ja">アクセス</span><span class="en">ACCESS</span></a></li>
+      </ul>
+      <a target="_blank" href="http://www.cta-observatory.org">
+        <img class="logo" src="images/cta_logo.jpg" alt="CTA" />
+      </a>
+      <a target="_blank" href="http://www.u-tokyo.ac.jp">
+        <img class="logo" src="images/ut_logo.png" alt="東京大学" />
+      </a>
+      <a target="_blank" href="http://www.icrr.u-tokyo.ac.jp">
+        <img class="logo" src="images/icrr_logo_w.gif" alt="宇宙線研究所(ICRR)" />
+      </a>
+    </nav>
+    <section id="wrapper">
+      <div class="slider-wrapper theme-default">
+        <div id="slider" class="nivoSlider">
+          <img src="images/BBQ_May2016.jpg" data-thumb="images/2magics.jpg" alt="" title="#BBQ" />
+          <img src="images/LST1_20180217.jpg" alt="" title="#LST1" />
+          <img src="images/LST1_MAGIC_20180211.jpg" alt="" title="#LST1_MAGIC" />
+          <img src="images/tevcat.png" alt="" title="#tevcat" />
+          <img src="images/fermi3fglait.png" alt="" data-transition="slideInLeft" title="#Fermi_3FGL" />
+          <img src="images/GRB.png" alt="" title="#GRB" />
+          <img src="images/AGN.png" alt="" title="#AGN" />
+<!--           <img src="images/BH.jpg" data-thumb="images/BH.jpg" alt="" data-transition="slideInLeft" title="#BH" /> -->
+<!--           <img src="images/Bubble.jpg" data-thumb="images/Bubble.jpg" alt="" title="#Bubble" /> -->
+<!--           <img src="images/Cas_A.jpg" data-thumb="images/Cas_A.jpg" alt="" title="#Cas_A" /> -->
+<!--           <img src="images/CR.jpg" data-thumb="images/CR.jpg" alt="" title="#CR" /> -->
+          <img src="images/RXJ1713.png" alt="" title="#RXJ1713" />
+          <img src="images/Crab.jpg" data-thumb="images/Crab.jpg" alt="" title="#Crab" />
+          <img src="images/pulsar.png" data-thumb="images/pulsar.jpg" alt="" data-transition="slideInLeft" title="#pulsar" />
+          <img src="images/DMhalo.jpg" data-thumb="images/DMhalo.jpg" alt="" title="#DMhalo" />
+          <img src="images/CTA_LST.jpg" data-thumb="images/CTA_LST.jpg" alt="" title="#CTA_LST" />
+          <img src="images/Fermi.jpg" data-thumb="images/Fermi.jpg" alt="" title="#Fermi" />
+        </div>
+        <div id="BBQ" class="nivo-html-caption">
+          宇宙線研CTAグループ+海外研究者数名によるBBQ
+	  <br />(2016/05/12,@ICRR6階テラス)
+        </div>
+        <div id="LST1" class="nivo-html-caption">
+          建設中のCTA大口径望遠鏡初号機
+	  <br />(2018/02/17@スペイン領カナリア諸島ラパルマ島)
+        </div>
+        <div id="LST1_MAGIC" class="nivo-html-caption">
+          2台のガンマ線望遠鏡MAGIC(写真左、中央)とCTA大口径望遠鏡初号機(写真右)
+	  <br />(2018/02/11@スペイン領カナリア諸島ラパルマ島)
+        </div>
+	<div id="tevcat" class="nivo-html-caption">
+	  TeV帯域の超高エネルギーガンマ線を放射する天体のカタログ(http://tevcat.uchicago.edu)
+	  <br>1989年かに星雲から最初のTeVガンマ線を検出して以来、全天で約180もの天体が発見された。CTAでは1000を超える天体の検出を目標にしている。
+	</div>
+	<div id="Fermi_3FGL" class="nivo-html-caption">
+          fermiガンマ線衛星によるガンマ線天体(100MeV-300GeV)の全天マップ(the Fermi Collabolation, 2015)
+	  <br>最高性能のガンマ線衛星Fermiの4年間の全天観測によって3000以上のガンマ線点源が検出された。
+	</div>
+	<div id="GRB" class="nivo-html-caption">
+	  ミリ秒から数十秒の間だけ全宇宙に匹敵するエネルギーの電磁波を放出する現宇宙最大の爆発現象（ガンマ線バースト）
+	  <br />一日に一回程度観測されるが、中心天体やガンマ線放射機構などの詳細はいまだに判明していない。
+	</div>
+	<div id="AGN" class="nivo-html-caption">
+          中心の小さな領域が銀河全体に匹敵するほど異常に明るく輝く銀河、活動銀河核。(Credit:NASA)
+	  <br />中心の超巨大ブラックホールからは多くの場合光速の99%を超えるプラズマのジェットが生成され、ジェットを覗き込む方向からは相対論的効果によってガンマ線が非常に明るく見える。
+	</div>
+	<div id="RXJ1713" class="nivo-html-caption">
+          TeVエネルギー帯のガンマ線で最も明るい天体の一つ、超新星残骸RX J1713.7−3946。(skymap by H.E.S.S.)
+	  <br />1PeVにも達するエネルギーを持つ宇宙線の加速源である可能性が現在議論されているが、CTAの観測によってその核心に迫ることができる。
+	</div>
+	<div id="Crab" class="nivo-html-caption">
+          TeV帯域のガンマ線において全天で最も明るい定常天体、かに星雲(Image Credit: NASA, ESA, J. Hester, A. Loll (ASU))
+	  <br />約1000年前に起きた超新星爆発の現場であり、中心には約33ミリ秒で高速回転する超高密度な中性子星が潜んでいる。
+	</div>
+	<div id="pulsar" class="nivo-html-caption">
+	  8-20太陽質量の星の最期に残る高速回転中性子星。(Credit:NASA/Goddard)
+	  <br />TeVガンマ線ではかに星雲中のパルサー以外にほとんど検出例がないが、CTAでは他波長帯で見えるパルサーを多数検出し中性子星まわりの物理を解き明かすことが期待されている。
+	</div>
+        <div id="DMhalo" class="nivo-html-caption">
+          我々の銀河の周りに球状に分布している暗黒物質。その正体は現在の素粒子標準模型では説明できない超対称性粒子であるとする説が有力である。
+	  <br />CTAでは暗黒物質が対消滅してできると予想されるガンマ線を観測し、暗黒物質の正体に迫る。(Image Credit : ESO/L. Calçada)
+        </div>
+	<!-- <div id="BH" class="nivo-html-caption"> -->
+	<!--   ブラックホール<br />降着するガスの重力エネルギーを解放し、上下にジェットを吹き出している。 -->
+	<!-- </div> -->
+	<!--       <div id="Bubble" class="nivo-html-caption"> -->
+	<!--         フェルミバブル<br />ガンマ線衛星フェルミにより、銀河中心に姿を現した巨大構造 -->
+	<!--       </div> -->
+	<!--       <div id="Cas_A" class="nivo-html-caption"> -->
+	<!--         超新星残骸 カシオペア座A -->
+	<!--       </div> -->
+	<!--         <div id="CR" class="nivo-html-caption"> -->
+	<!--           宇宙線加速機構<br />宇宙最強の加速器解明まであと一歩。 -->
+	<!--         </div> -->
+	
+	<div id="CTA_LST" class="nivo-html-caption">
+          次世代チェレンコフガンマ線望遠鏡アレイ、CTA。大口径望遠鏡初号機は2018年内に初観測予定である。
+	</div>
+	<div id="Fermi" class="nivo-html-caption">
+          ガンマ線衛星fermi (Credit:NASA)
+	  <br />GeV帯域のガンマ線を世界最高感度で観測し、2008年の打ち上げ以来多くのガンマ線天体現象を発見してきた。
+	</div>
+      </div>      
+</div>
+
+</section>
+<script type="text/javascript" src="js/jquery-1.10.0.min.js"></script>
+<script type="text/javascript" src="js/nivo-slider/jquery.nivo.slider.js"></script>
+<script type="text/javascript">
+  $(window).load(function() {
+  $('#slider').nivoSlider();
+  });
+</script>
+</body>
+</html>

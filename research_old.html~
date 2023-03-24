@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html lang="en">
+<head>
+    <title>ICRR チェレンコフ宇宙ガンマ線グループ </title>
+    <link rel="stylesheet" href="js/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/light/light.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/dark/dark.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="js/nivo-slider/themes/bar/bar.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+    <!--[if lt IE 9]>
+    <script src="./js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <header>
+        <h2><a href="http://www.u-tokyo.ac.jp">東京大学</a> <a href="http://www.icrr.u-tokyo.ac.jp">宇宙線研究所</a><h2>
+            <h1><a href="./index.html">チェレンコフ宇宙ガンマ線グループ</a></h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="./index.html"><span class="ja">ホーム</span><span class="en">HOME</span></a></li>
+            <li><a href="./news.html"><span class="ja">ニュース</span><span class="en">NEWS</span></a></li>
+            <li><a href="./members.html"><span class="ja">メンバー</span><span class="en">MEMBERS</span></a></li>
+            <li class="be"><a href="./research.html"><span class="ja">研究紹介</span><span class="en">OUR RESEARCH</span></a></li>
+            <li><a href="./observation.html"><span class="ja">ガンマ線観測</span><span class="en">GAMMA-RAY OBSERVATION</span></a></li>
+            <li><a href="./objects.html"><span class="ja">ガンマ線天体</span><span class="en">GAMMA-RAY OBJECTS</span></a></li>
+            <li><a href="undergraduate.html"><span class="ja">進学希望の方へ</span><span class="en">FOR UNDERGRADUATE</span></a></li>
+	    <li><a href="http://www.icrr.u-tokyo.ac.jp/~cta/wiki/index.php"><span class="ja">内部Wiki</span><span class="en">INTERNAL WIKI</span></a></li>
+            <li><a href="./links.html"><span class="ja">リンク</span><span class="en">LINKS</span></a></li>
+            <li><a href="./access.html"><span class="ja">アクセス</span><span class="en">ACCESS</span></a></li>
+        </ul>
+        <a target="_blank" href="http://www.cta-observatory.org">
+            <img class="logo" src="images/cta_logo.jpg" alt="CTA" />
+        </a>
+        <a target="_blank" href="http://www.u-tokyo.ac.jp">
+            <img class="logo" src="images/ut_logo.png" alt="東京大学" />
+        </a>
+        <a target="_blank" href="http://www.icrr.u-tokyo.ac.jp">
+            <img class="logo" src="images/icrr_logo_w.gif" alt="宇宙線研究所(ICRR)" />
+        </a>
+    </nav>
+    <section>
+        <h1>研究紹介</h1>
+        <p>
+        宇宙にはガンマ線を放射する天体が多数あり、それを放射する非常に高エネルギーの粒子を生成する天然の加速器が存在しています。しかし、加速される過程や天体の性質はまだまだ解明されていません。こうした極限の宇宙を探求するために我々は、ガンマ線望遠鏡MAGICやフェルミ衛星(<span class="more"><a href="./observation.html">ガンマ線観測</a></span>)を用いて研究を行っており、さらにこの分野を発展させるために、チェレンコフ望遠鏡大型アレイ(CTA)計画の推進を重点的に行っています。
+        </p>
+        <p>
+        ここでは、特に力を入れているCTAの開発について紹介します。<br />
+        CTA Japanグループでは、最も低エネルギー側(20GeV-1TeV)をカバーする大型望遠鏡LSTの開発を世界で主導して行っており、我々のグループは日本の中心的な役割を果たしています。
+        我々が行っている主な開発項目は以下の4つです。
+        <img class="right" src="./images/LST.jpg" alt="大型望遠鏡LST" title="大型望遠鏡LST" />
+        <img class="right" src="./images/PMD.jpg" alt="PMD装置" title="鏡面精度を測定するためのPMD装置。たくさんの人で協力して組み立てました。" />
+        <img class="right" src="./images/LightGuide.jpg" alt="光電子増倍管の先にライトガイドの試作品が取り付けられています。" title="光電子増倍管の先にライトガイドの試作品が取り付けられています。" />
+        <img class="right" src="./images/PMT_cluster.jpg" alt="光電子増倍管(PMT)と信号処理回路を合わせたクラスターモジュール" title="光電子増倍管(PMT)と信号処理回路を合わせたクラスターモジュール。PMTが7本で1セットとなっています。" />
+        <dl class="decimal">
+        <dt>鏡と支持構造の開発</dt>
+        <dd>LSTは直径が23mもある巨大なものですが、総重量は70トンと比較的軽く、突発天体の観測にも機動性を発揮します。鏡は直径1.5mの分割鏡200枚からなり、それぞれは非常に高い表面精度を持つように設計されています。製造された鏡はその性能をチェックする必要があり、PMD法と呼ばれる方法を用いてミクロン単位で表面の凹凸などを評価します。また、運用時には屋外で用いるため、耐久性の確保も必要です。さらには、強風や高速回転時などには鏡にたわみが発生しますが、それを補正するための装置の設計や開発も行っています。        </dd>
+        <dt>光検出器(カメラ部)</dt>
+        <dd>鏡で集光されたチェレンコフ光はカメラ部に搭載された光電子増倍管(PMT)で検出され、信号として読み出されます。CTAでは微弱なチェレンコフ光まで捉えるために浜松ホトニクス社と協力して量子効率が非常に優れたPMTの開発に取り組んでいます。また、LSTでは1台あたり2000本も使われるため、それぞれの性能の評価も重要です。さらに、より効率よくチェレンコフ光を集光ためにライトガイドの設計、開発を行っています。その他、信号処理時の発熱を抑えるために冷却システムの開発も行っています。
+        </dd>
+        
+        <dt>信号読み出し回路</dt>
+        <dd>光電子増倍管から出た信号は、まずノイズを抑えて十分な大きさまで増幅され、信号処理ボードへと入力され、デジタル変換処理が行われてトリガー(信号の検出)がかけられます。信号はノイズを下げるために短くなっており、夜光などのバックグラウンドが存在するため、信号処理ボードでは2GHzという高速でサンプリングが必要で、トリガーも含めた回路の設計が行われています。また、PMTの動作電圧や温度モニターをするための回路の作成も行っており、PMTと信号処理回路を合わせたものを束ねたクラスターモジュールを開発しています。
+        </dd>
+        
+        <dt>モンテカルロシミュレーション</dt>
+        <dd>CTAはたくさんの望遠鏡をアレイ状に並べて観測を行いますが、どのような配置をすることで性能を最大限に発揮できるかをモンテカルロシミュレーションを行って最適化を行っています。また、突発天体発生時の検出頻度やオペレーション方法の検討にもシミュレーションが力を発揮します。また、PMTから出力される波形がトリガー効率にどのように影響するかなど評価してハードウェア開発にもフィードバックが行われており、重要な役割を果たしています。
+        </dd>
+        </dl>
+    </section>
+</body>
+</html>

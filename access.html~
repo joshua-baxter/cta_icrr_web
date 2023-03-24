@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <html lang="ja">
+        <head>
+            <title>ICRR チェレンコフ宇宙ガンマ線グループ アクセス</title>
+            <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+            <!--[if lt IE 9]>
+            <script src="./js/html5shiv-printshiv.js"></script>
+            <![endif]-->
+        </head>
+        <body>
+            <header>
+                <h2><a href="http://www.u-tokyo.ac.jp">東京大学</a> <a href="http://www.icrr.u-tokyo.ac.jp">宇宙線研究所</a><h2>
+                    <h1><a href="./index.html">チェレンコフ宇宙ガンマ線グループ</a></h1>
+                    </header>
+            <nav>
+                <ul>
+                    <li><a href="./index.html"><span class="ja">ホーム</span><span class="en">HOME</span></a></li>
+                    <li><a href="./news.html"><span class="ja">ニュース</span><span class="en">NEWS</span></a></li>
+                    <li><a href="./members.html"><span class="ja">メンバー</span><span class="en">MEMBERS</span></a></li>
+                    <li><a href="./research.html"><span class="ja">研究紹介</span><span class="en">OUR RESEARCH</span></a></li>
+                    <li><a href="./observation.html"><span class="ja">ガンマ線観測</span><span class="en">GAMMA-RAY OBSERVATION</span></a></li>
+                    <li><a href="./objects.html"><span class="ja">ガンマ線天体</span><span class="en">GAMMA-RAY OBJECTS</span></a></li>
+                    <li><a href="undergraduate.html"><span class="ja">進学希望の方へ</span><span class="en">FOR UNDERGRADUATE</span></a></li>
+		    <li><a href="http://www.icrr.u-tokyo.ac.jp/~cta/wiki/index.php"><span class="ja">内部Wiki</span><span class="en">INTERNAL WIKI</span></a></li
+                    <li><a href="./links.html"><span class="ja">リンク</span><span class="en">LINKS</span></a></li>
+                    <li class="be"><a href="./access.html"><span class="ja">アクセス</span><span class="en">ACCESS</span></a></li>
+                </ul>
+                <a target="_blank" href="http://www.cta-observatory.org">
+                    <img class="logo" src="images/cta_logo.jpg" alt="CTA" />
+                </a>
+                <a target="_blank" href="http://www.u-tokyo.ac.jp">
+                    <img class="logo" src="images/ut_logo.png" alt="東京大学" />
+                </a>
+                <a target="_blank" href="http://www.icrr.u-tokyo.ac.jp">
+                    <img class="logo" src="images/icrr_logo_w.gif" alt="宇宙線研究所(ICRR)" />
+                </a>
+            </nav>
+            <section class="note">
+                <h1>ACCCESS</h1>
+                <p>
+                <a target="_blank" href="./images/icrrmap.png">
+                    <img class="right" src="./images/icrrmap.png" alt="柏キャンパス内地図" class="big" />
+                </a>
+                〒277-8582<br />
+                千葉県柏市柏の葉 5-1-5<br />
+                宇宙線研究所柏キャンパスまでのアクセスは<a href="http://www.u-tokyo.ac.jp/campusmap/map03_02_j.html">こちら<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                </p>
+                <h3>TEL</h3>
+                <p>
+                04-7136-5115 (手嶋)<br />
+                04-7136-5119 (吉越)
+                </p>
+                <h3>MAIL</h3>
+                <p>
+                mteshima(at)icrr.u-tokyo.ac.jp (手嶋)<br />
+                tyoshiko(at)icrr.u-tokyo.ac.jp (吉越)<br />
+                <small>(at)は@に変えてください。</small>
+                </p>
+            </section>
+</body>
+</html>

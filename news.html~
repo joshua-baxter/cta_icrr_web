@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html lang="ja">
+<head>
+    <title>ICRR チェレンコフ宇宙ガンマ線グループ ニュース</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <!--[if lt IE 9]>
+    <script src="./js/html5shiv-printshiv.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <header>
+        <h2><a href="http://www.u-tokyo.ac.jp">東京大学</a> <a href="http://www.icrr.u-tokyo.ac.jp">宇宙線研究所</a><h2>
+            <h1><a href="./index.html">チェレンコフ宇宙ガンマ線グループ</a></h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="./index.html"><span class="ja">ホーム</span><span class="en">HOME</span></a></li>
+            <li class="be"><a href="./news.html"><span class="ja">ニュース</span><span class="en">NEWS</span></a></li>
+            <li><a href="./members.html"><span class="ja">メンバー</span><span class="en">MEMBERS</span></a></li>
+            <li><a href="./research.html"><span class="ja">研究紹介</span><span class="en">OUR RESEARCH</span></a></li>
+            <li><a href="./observation.html"><span class="ja">ガンマ線観測</span><span class="en">GAMMA-RAY OBSERVATION</span></a></li>
+            <li><a href="./objects.html"><span class="ja">ガンマ線天体</span><span class="en">GAMMA-RAY OBJECTS</span></a></li>
+            <li><a href="undergraduate.html"><span class="ja">進学希望の方へ</span><span class="en">FOR UNDERGRADUATE</span></a></li>
+            <li><a href="http://www.icrr.u-tokyo.ac.jp/~cta/wiki/index.php"><span class="ja">内部Wiki</span><span class="en">INTERNAL WIKI</span></a></li>
+            <li><a href="./links.html"><span class="ja">リンク</span><span class="en">LINKS</span></a></li>
+            <li><a href="./access.html"><span class="ja">アクセス</span><span class="en">ACCESS</span></a></li>
+        </ul>
+        <a target="_blank" href="http://www.cta-observatory.org">
+            <img class="logo" src="images/cta_logo.jpg" alt="CTA" />
+        </a>
+        <a target="_blank" href="http://www.u-tokyo.ac.jp">
+            <img class="logo" src="images/ut_logo.png" alt="東京大学" />
+        </a>
+        <a target="_blank" href="http://www.icrr.u-tokyo.ac.jp">
+            <img class="logo" src="images/icrr_logo_w.gif" alt="宇宙線研究所(ICRR)" />
+        </a>
+    </nav>
+    <section>
+      <dl class="note">
+	    <dt>2018.11.1 NEW!</dt>
+	    <dd>Daniel Mazin 助教が特任准教授に昇格され、Daniela Hadasch 特任研究員が特任助教に昇格されました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+            </dd>
+            <dt>2018.10.10</dt>
+	    <dd>我々チェレンコフ宇宙ガンマ線グループで研究開発を行ってきたCTA大口径望遠鏡の1号基が完成し、その記念式典がスペインのラ・パルマ島で行われました。<a href="http://www.icrr.u-tokyo.ac.jp/2018/10/11132220.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+	    </dd>
+	    <dt>2018.9.25</dt>
+	    <dd>修士1年の小林志鳳さんが<a target="_blank" href="http://www.s.u-tokyo.ac.jp/ja/info/5975/">「フォトンサイエンス国際卓越大学院プログラム」<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>のコース生として採用されました。
+	    </dd>
+            <dt>2018.9.19-21</dt>
+            <dd>日本天文学会2018年秋季年会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+                    <li>CTA計画：全体報告(15) (手嶋政廣)</li>
+                    <li>CTA大口径望遠鏡初号機のカメラ最終試験報告 (櫻井駿介)</li>
+                </ul>
+            </dd>
+	    <dt>2018.9.18<dt>
+	    <dd>高橋光成さんが博士号を取得し、特任研究員として着任されました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+	    </dd>
+	    <dt>2018.9.14-17</dt>
+            <dd>日本物理学会2018年秋季大会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+                    <li>CTA報告140: モンテカルロシミュレーションを用いたCTAでのgamma-ray like 陽子事象の空気シャワー特性とハドロン相互作用モデル依存性の調査 (大石理子)</li>
+                    <li>CTA報告146: CTA大口径望遠鏡光学系インストール現状（稲田知大)</li>
+                </ul>
+            </dd>
+            <dt>2018.9.3<dt>
+	    <dd>Egor Podlesnyiさんをモスクワ大学からの留学生として受け入れました。
+            </dd>
+	    <dt>2018.7.22-25</dt>
+            <dd><a target="_blank" href="http://www.astro-wakate.org/ss2018/web/index.html">第48回天文・天体物理若手夏の学校<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>に大学院生2人が参加し、公演を行いました。
+	    </dd>
+	    <dt>2018.7.3<dt>
+	    <dd>Manel Martinez 特任教授が着任されました。
+	    </dd>
+	    <dt>2018.4.1<dt>
+	    <dd>小林志鳳さん、大谷恵生さんが新しい大学院生として研究室メンバーに加わりました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+	    </dd>
+	     <dt>2018.3.22-25</dt>
+            <dd>日本物理学会2018年春季大会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+                    <li>CTA報告130: 全体報告 (手嶋政廣)</li>
+                    <li>CTA報告132: CTAのTeV領域電子・陽電子スペクトル測定性能のシミュレーション評価(Ⅲ)（大石理子)</li>
+                    <li>CTA報告134: CTA大口径望遠鏡搭載光電子増倍管の経年変化の研究 (櫻井駿介)</li>
+                    <li>CTA報告137: CTA大口径望遠鏡分割鏡性能評価と開発状況について (稲田知大)</li>
+		    <li>CTA報告138: CTA大口径望遠鏡の分割鏡制御システム (野田浩司)</li>
+                    <li>MAGIC報告63: 銀河系中心領域の超高エネルギーガンマ線観測 (岩村由樹)</li>
+                    <li>MAGIC報告64: MAGIC望遠鏡による明るい月光下でのGRB160821Bの観測 (深見哲志) </li>
+                </ul>
+            </dd>
+            <dt>2018.3.14-17</dt>
+            <dd>日本天文学会2018年春季年会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+                    <li>CTA大口径望遠鏡の分割鏡の開発状況 (黒田隼人)</li>
+                    <li>CTA大口径望遠鏡用分割鏡制御システムの開発状況 (深見哲志)</li>
+		    <li>MAGIC望遠鏡によるshort GRB160821Bの観測 (野田浩司)</li>
+                </ul>
+            </dd>
+            <dt>2018.3.6-10<dt>
+	    <dd>宇宙線研究所の次年度学部４年生向けプログラム<a target="_blank" href="http://www.icrr.u-tokyo.ac.jp/ss/index.html">宇宙・素粒子スプリングスクール2018<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>が開催されました。ガンマ線グループのプロジェクト研究では
+                <ul>
+                    <li>チームA「Fermiガンマ線宇宙望遠鏡を用いたパルサーの観測的研究」</li>
+                    <li>チームB「ミューオンイメージング望遠鏡を用いた宇宙線研究所の建物の撮像」</li>
+                </ul>
+                を行いました。
+            </dd>
+	    <dt>2018.2.1<dt>
+	    <dd>野田浩司 准教授が着任されました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+	    </dd>
+	    <dt>2018.1.25<dt>
+	    <dd>Emil Khalikovさんをモスクワ大学からの留学生として受け入れました。
+	    </dd>
+	    <dt>2017.9.12-15</dt>
+            <dd>日本物理学会2017年秋季大会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+		    <li>光電子増倍管の1光電子信号強度分布の精密測定 (櫻井駿介)
+                    <li>CTA報告124: CTAのTeV領域電子・陽電子スペクトル測定性能のシミュレーション評価(II) (大石理子)</li>
+                    <li>CTA報告125: CTA大口径望遠鏡初号機の焦点面検出器建設状況（櫻井駿介)</li>
+                    <li>CTA報告128: CTA大口径望遠鏡用分割鏡性能評価と最適配置 (稲田知大)</li>
+                    <li>CTA報告129: CTA大口径望遠鏡用分割鏡制御システムの開発状況 (深見哲志)</li>
+                </ul>
+            </dd>
+            <dt>2017.9.11-13</dt>
+            <dd>日本天文学会2017年秋季年会にて研究室メンバーが発表しました。<a target="_blank" href="http://www.cta-observatory.jp/publications.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+                <ul>
+                    <li>CTA大口径望遠鏡の分割鏡の結像性能評価 (黒田隼人)</li>
+		    <li>MAGIC望遠鏡による銀河系中心領域からのガンマ線観測 (岩村由樹)
+                </ul>
+	    <dt>2017.4.1</dt>
+            <dd>齋藤隆之 特任助教が着任されました。
+	    <br>久門拓さんが新しい大学院生として研究室メンバーに加わりました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+            </dd>
+            <dt>2017.2.24</dt>
+            <dd>宇宙線研究所修士博士研究発表会にて岩村由樹さんが修士の部・所長賞を受賞しました。
+            </dd>
+            <dt>2016.3.8-12</dt>
+            <dd>宇宙線研究所の次年度学部４年生向けプログラム<a target="_blank" href="http://www.icrr.u-tokyo.ac.jp/ss/2016/">宇宙・素粒子スプリングスクール2016<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>が開催されました。ガンマ線グループのプロジェクト研究では
+                <ul>
+                    <li>チームA「高エネルギーガンマ線で暗黒物質を探索しよう」</li>
+                    <li>チームB「チェレンコフガンマ線望遠鏡を製作しカニ星雲を観測しよう」</li>
+                </ul>
+                を行いました。審査の結果、<a target="_blank" href="http://www.icrr.u-tokyo.ac.jp/ss/2016/project.html">チームBが最優秀賞を受賞しました！<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>
+            </dd>
+            <dt>2016.1.13-14</dt>
+            <dd><a target="_blank" href="http://www.cta-observatory.jp/workshop/CTA-J/2015/">特別推進研究研究会・宇宙線研究所共同利用研究会「高エネルギーガンマ線でみる極限宇宙2015」 <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a> を開催しました。
+            </dd>
+            <dt>2015.10.26-30</dt>
+            <dd><a target="_blank" href="https://www.icrr.u-tokyo.ac.jp/indico/conferenceDisplay.py?confId=23">TeV Particle Astrophysics 2015 <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a> を千葉県柏市柏の葉カンファレンスセンターにて開催しました。
+                <ul>
+                    <li>Particle acceleration and nonthermal emission from fast winds in active galactic nuclei (井上進)</li>
+                    <li>Extragalactic Sources of Very High Energy Gamma-Ray Emission: Highlights from Imaging Atmospheric Cherenkov Telescopes (Daniel Mazin)</li>
+                    <li>MAGIC VHE gamma-ray observations of transient and variable stellar objects (Daniela Hadasch)</li>
+                    <li>The impact of the Calorimeter-only photons in the Fermi-LAT analysis of VHE sources (高橋光成)</li>
+                    <li>Future of ground gamma-ray astrophysics (手嶋政廣)</li>
+            </dd>
+            <dt>2015.9.25-28</dt>
+            <dd><a target="_blank" href="http://jps.hep.osaka-cu.ac.jp">日本物理学会2015年秋季大会 <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+                <ul>
+                    <li>CTA 報告96: 全体報告 (手嶋政廣)</li>
+                    <li>CTA 報告97: Direct Cherenkov光を用いた宇宙線化学組成計測手法のモンテカルロシミュレーション評価(III)（大石理子)</li>
+                    <li>CTA 報告98: CTA大口径望遠鏡用PMT性能評価結果 (高橋光成)</li>
+                    <li>CTA 報告101: 無線通信を用いたActive mirror controlソフトウェアの運用試験 (深見哲志)</li>
+                    <li>MAGIC Report 53: Observations of very distant blazars with MAGIC (Daniel Mazin)</li>
+                    <li>MAGIC Report 54: MAGIC gamma-ray binaries (Daniela Hadasch) </li>
+                    <li>2次フェルミ加速モデルによるFSRQ天体3C279ガンマ線フレアの放射起源 (林田将明)</li>
+                    <li>活動銀河核のultra-fast outflowにおける宇宙線加速と高エネルギーガンマ線・電波放射 (井上進)</li>
+                </ul>
+            </dd>
+            <dt>2015.9.9-11</dt>
+            <dd><a target="_blank"
+                href="http://tpweb2.phys.konan-u.ac.jp/asj2015b/">日本天文学会2015年秋季年会<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。<br />
+                <ul>
+                    <li>CTA 大口径望遠鏡初号機の光学系開発状況と性能評価 (林田将明)</li>
+                </ul>
+                <h4>企画セッション『ガンマ線天文台 CTA で切り拓く次世代の高エネルギー天文学』</h4>
+                <ul>
+                    <li>Observational Cosmology through high and very high energy gamma rays (Daniel Mazin)</li>
+                    <li>CTA Transient Factory：広視野突発天体サーベイの展望 (井上進)</li>
+                    <li>空気シャワーモンテカルロシミュレーションによる CTA のデザイン研究と観測性能 (稲田知大)</li>
+                    <li>CTA計画大口径望遠鏡初号機用PMTの性能と品質管理 (永吉勤)</li>
+                </ul>
+            </dd>
+            
+            <dt>2015.4.1</dt>
+            <dd>新しく大学院生がメンバーに加わりました。<a href="http://www.icrr.u-tokyo.ac.jp/~cta/members.html"><img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a></dd>
+            
+            <dt>2015.3.21-24</dt>
+            <dd><a target="_blank" href="http://www.jps2015a.phys.waseda.ac.jp">日本物理学会第70回年次大会 <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+                <ul>
+                    <li>素粒子実験領域、実験核物理領域、宇宙線・宇宙物理領域 合同シンポジウム『実験のための最先端コンピューティング』: 大規模地上ガンマ線望遠鏡群が産み出す観測ビッグデータへの挑戦 - CTAでのコンピューティング (中嶋大輔)</li>
+                    <li>CTA 報告86: 全体報告（手嶋政廣）</li>
+                    <li>CTA 報告87: 空気シャワーシミュレーションを用いた光学系パラメータに対するCTA大口径望遠鏡の性能評価（荻野桃子）</li>
+                    <li>CTA 報告88: Direct Cherenkov 光を用いた宇宙線化学組成計測手法のモンテカルロシミュレーション評価(II) (大石理子)</li>
+                    <li>CTA 報告90: CTA大口径望遠鏡初号機用PMT信号の高精度測定 (高橋光成)</li>
+                    <li>CTA 報告93: CTA大口径望遠鏡用 AMCシステムの開発及び試験構造体を用いた光学系試験 (深見哲志)</li>
+                    <li>MAGIC 報告52: MAGIC望遠鏡が観測した活動銀河核IC310からのガンマ線短時間変動 (林田将明)</li>
+                    <li>宇宙線・宇宙物理領域、素粒子論領域 合同シンポジウム『超高エネルギーガンマ線天文学と Cherenkov Telescope Array (CTA) 計画 TeV gamma-ray astronomy and the Cherenkov Telescope Array (CTA) project』: CTA-Japan の状況と今後の戦略 Status of the CTA-Japan Consortium and the strategy (手嶋政廣)</li>
+                </ul>
+            </dd>
+            
+            <dt>2015.3.18-21</dt>
+            <dd><a target="_blank" href="http://www.asj.or.jp/nenkai/2015a/">日本天文学会2015年春季年会<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+                <ul>
+                    <li>Cherenkov Telescope Array (CTA) 計画：全体報告(8) (手嶋政廣)</li>
+                </ul>
+            </dd>
+                    
+      <dt>2014.9.22</dt>
+	  <dd>David Paneque 特任准教授が着任しました。</dd>
+      
+	  <dt>2014.9.18-21</dt>
+	  <dd><a target="_blank" href="http://jps.phys.saga-u.ac.jp/index.html">日本物理学会2014年秋季大会 <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+      <ul>
+		  <li>MAGIC 報告49: 超新星残骸W44の超高エネルギーガンマ線観測（花畑義隆）</li>
+		  <li>MAGIC報告50：2013-2014年のガンマ線増光期におけるTeV FSRQ 3C 279の多波長観測（林田将明）</li>
+		  <li>CTA 報告75: 全体報告（手嶋政廣）</li>
+		  <li>CTA報告 78：Direct Cherenkov光を用いた宇宙線化学
+		  組成計測手法のモンテカルロシミュレーション評価（大石理子）</li>
+  		  <li>CTA報告 79：CTA 報告79：CTA大口径望遠鏡PMTモジュール開発と性能評価（中嶋大輔）</li>
+		  <li>CTA 報告80: CTA大口径望遠鏡PMTキャリブレーション（高橋光成）</li>
+		  <li>CTA 報告82: CTA大口径望遠鏡のデータ収集システム開発（石尾一馬）</li>
+		  <li>CTA 報告83: CTA大口径望遠鏡分割鏡の性能評価とシミュレーションによる光学系パラメータの考察（荻野桃子）</li>
+		  <li>CTA 報告84: CTA大口径望遠鏡用試験構造体を用いた光学系組立試験（深見哲志）</li>
+	</ul>
+    </dd>
+      
+    <dt>2014.9.11-13</dt>
+    <dd><a target="_blank" href="http://ksirius.kj.yamagata-u.ac.jp/~asj14fall/">日本天文学会2014年秋季年会<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+        <ul>
+             <li>MAGIC 望遠鏡による超新星残骸 W44 領域の超高エネルギーガンマ線観測（花畑義隆）</li>
+        </ul>
+     	
+    <dt>2013.9.16</dt>
+    <dd>Daniel Mazin 助教と Daniela Hadasch 特任研究員が着任しました。</dd>
+      
+	<dt>2014.3.27-30</dt>
+	<dd><a target="_blank" href="http://www.jps.or.jp/activities/meetings/">日本物理学会第69回年次大会<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+        <ul>
+             <li>CTA 報告69: CTA大口径望遠鏡の焦点面検出器の開発（高橋光成）</li>
+             <li>CTA 報告72: CTA大口径望遠鏡の分割鏡の性能評価（荻野桃子）</li>
+             <li>CTA 報告73: CTA大口径望遠鏡に用いる分割鏡制御システムの開発（小島拓実）</li>
+             <li>CTA 報告74: CTA大口径望遠鏡における光学系調整のための分割鏡支持構造設計（花畑義隆）</li>
+             <li>MAGIC 報告45: 遠方ブレーザー H1722+119 の観測（斎藤浩二）</li>
+             <li>MAGIC 報告46: ブレーザー 3C279 に対する2011年の多波長観測（林田将明）</li>
+             <li>MAGIC 報告47: 新型アナログ Sum Trigger のインストールおよびコミッショニング（中嶋大輔）</li>
+    	</ul>
+    </dd>
+
+    <dt>2014.3.19-22</dt>
+        <dd><a target="_blank" href="http://www.asj.or.jp/nenkai/">日本天文学会2014年春季年会<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて研究室メンバーが発表しました。
+            <ul>
+                 <li>MAGIC望遠鏡のためのアナログSumトリガーのインストールおよびコミッショニング（中嶋大輔）</li>
+                 <li>Cherenkov Telescope Array (CTA) 計画：全体報告(6) 口頭講演（手嶋政廣）</li>
+                 <li>Gamma-ray loud Narrow-line Seyfert-1, 1H 0323+342の長期多波長観測（林田将明）</li>
+                 <li>MAGIC望遠鏡による遠方ブレーザーH 1722+119の観測（齋藤浩二）</li>
+            </ul>
+        </dd>
+
+    <dt>2014.1.14</dt>
+    <dd><a target="_blank" href="http://www.icrr.u-tokyo.ac.jp/2014/01/02171204.html">国際宇宙ガンマ線天文台（CTA） 大口径望遠鏡（LST） ワークショップ<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>を開催しました。</dd>
+
+    <dt>2013.11.4-6</dt>
+    <dd><a target="_blank" href="http://www-conf.kek.jp/link13/">CTAとX線分野のLINKミーティング<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>に研究室メンバーが参加しました。</dd>
+
+    <dt>2013.10.26</dt>
+    <dd><a target="_blank" href="http://www.kashiwa.u-tokyo.ac.jp/opc2013/">柏キャンパス一般公開<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>にて展示を行いました。ご来場頂いた方々に御礼申し上げます。</dd>
+    
+    <dt>2013.9.3-4</dt>
+    <dd>特別推進研究研究会・宇宙線研究所共同利用研究会<a target="_blank" href="http://cta.scphys.kyoto-u.ac.jp/workshop/CTA-J/2013/">「高エネルギーガンマ線でみる極限宇宙2013」<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>を開催しました。</dd>
+
+    <dt>2013.7.29-8.1</dt>
+    <dd><a target="_blank" href="http://www.astro-wakate.org/ss2013/web/">第43回天文・天体物理若手夏の学校<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>に院生4人が参加、発表を行いました。</dd>
+
+    <dt>2013.7.1</dt>
+    <dd>マックス・プランク研究所から中嶋大輔特任助教をお迎えしました。</dd>
+
+    <dt>2013.6.15</dt>
+    <dd><a target="_blank" href="http://www.icrr.u-tokyo.ac.jp/guidance/">宇宙線研究所で大学院進学ガイダンス<img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a>が開催されました。ご来場頂いた方々に御礼申し上げます。</dd>
+    
+    <dt>2013.6.8</dt>
+    <dd><a target="_blank" href="http://www.phys.s.u-tokyo.ac.jp/entrance/H26guidance.html">理学系研究科 物理学専攻の進学ガイダンス <img class="icon" alt="→" src="http://www.icrr.u-tokyo.ac.jp/~cta/images/arrow11-038.gif" /></a> が開催されました。</dd>
+
+    <dt>2013.6.7</dt>
+    <dd>ウェブサイトを開設しました</dd>
+    </dl>
+    </section>
+</body>
+</html>
